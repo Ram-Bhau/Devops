@@ -128,3 +128,22 @@ git clone https://github.com/ramkhadke/apps.git
 git fetch origin master https://github.com/ramkhadke/apps.git
 git fetch origin master 
 git log
+git clone https://github.com/ramkhadke/apps.git
+git status
+cat > file2
+git status
+git add .
+git commit -m "b"
+git pull 
+git clone https://github.com/ramkhadke/apps.git
+git checkout -u test
+git checkout -u master
+git checkout -b test
+git push origin -u master
+git clone 
+git clone https://github.com/ramkhadke/apps.git
+git fetch https://github.com/ramkhadke/apps.git
+git branch
+git clone https://github.com/ramkhadke/apps.git
+git push origin -u master
+exit 
